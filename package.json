@@ -1,0 +1,11 @@
+{
+  "name": "crypto-staking-rewards-web3",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "description": "Beginner-friendly crypto staking and rewards project",
+  "author": "Nazrul Islam",
+  "license": "MIT"
+}
